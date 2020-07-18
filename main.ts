@@ -1,5 +1,2 @@
 let b: string = 'name'
-    
-
-
-let c = 1;
+console.log(b);
