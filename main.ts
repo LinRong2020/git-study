@@ -1,2 +1,3 @@
-let b: string = 'name'
+
 console.log(b);
+let a = 1;
