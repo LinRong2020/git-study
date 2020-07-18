@@ -1,2 +1,5 @@
 let b: string = 'name'
-console.log(b);
+    
+
+
+let c = 1;
